@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Market</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_title">Market</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_recommend">我是推荐界面\n我是推荐界面</string>
+    <string name="fragment_rank">我是排行界面&#x0D;&#x0A;我是排行界面</string>
+    <string name="fragment_software">我是软件界面\n我是软件界面</string>
+    <string name="fragment_search">我是搜索界面&#x0D;&#x0A;我是搜索界面</string>
+    <string name="title_activity_yu">yu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
